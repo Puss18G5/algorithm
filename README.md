@@ -1,7 +1,7 @@
 # Algorithm
 
 ## Arbetssätt ##
-Master-branchen är skyddad vilket innebär att man ej kan pusha direkt till den, ändringar förs in i master-branchen via pull requests.
+Master-branchen är skyddad vilket innebär att man inte kan pusha direkt till den, ändringar förs istället in i master-branchen via pull requests.
 
 Såhär gör man:
 
